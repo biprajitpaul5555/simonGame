@@ -14,6 +14,8 @@ A game of short-term memory skill that creates a series of 4 tones and lights an
 - [License](#license)
 - [Authors](#authors)
 - [Feedback](#feedback)
+
+
 ## Screenshots
 
 ![App Screenshot](https://drive.google.com/uc?id=1vz1xzEUTJieSbTosS3xlxBm1jHXSfYHo)
@@ -27,7 +29,6 @@ A game of short-term memory skill that creates a series of 4 tones and lights an
 - Strict repetition
 
 
-
 ## Tech Stack
 
 **Client:** JQuery
@@ -38,7 +39,7 @@ https://biprajitpaul5555.github.io/simonGame/
 
 ## Colour Reference
 
-| Color             | Hex                                                                |
+| Colour             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Background colour | ![#011f3f](https://via.placeholder.com/10/011f3f?text=+) #011f3f |
 | Text colour | ![#fef2bf](https://via.placeholder.com/10/fef2bf?text=+) #fef2bf |
@@ -54,7 +55,7 @@ https://biprajitpaul5555.github.io/simonGame/
 
 ## License
 
-Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See LICENSE for more information.
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See [LICENSE](https://github.com/biprajitpaul5555/simonGame/blob/main/LICENSE) for more information.
 
 
 ## Authors
