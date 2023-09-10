@@ -11,6 +11,8 @@ A game of short-term memory skill that creates a series of 4 tones and lights an
 - [Demo](#demo)
 - [Colour reference](#colour-reference)
 - [FAQ](#faq)
+- [License](#license)
+- [Authors](#authors)
 - [Feedback](#feedback)
 ## Screenshots
 
@@ -49,6 +51,16 @@ https://biprajitpaul5555.github.io/simonGame/
 - Press any key on your keyboard, a colour will blink - which you need to remember and press to complete level 1.
 - Once you press on the starting colour, the game will randomly blink another color. Now you need to select the previous colour and the new colour which blinked.
 - As you progress, you need to keep the previous colour combination in mind and then click on the new colour which blinks.
+
+## License
+
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See LICENSE for more information.
+
+
+## Authors
+
+- [@biprajitpaul5555](https://www.github.com/biprajitpaul5555)
+
 
 ## Feedback
 
