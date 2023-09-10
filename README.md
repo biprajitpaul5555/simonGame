@@ -41,7 +41,7 @@ https://biprajitpaul5555.github.io/simonGame/
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Background colour | ![#011f3f](https://via.placeholder.com/10/011f3f?text=+) #011f3f |
-| Text Color | ![#fef2bf](https://via.placeholder.com/10/fef2bf?text=+) #fef2bf |
+| Text colour | ![#fef2bf](https://via.placeholder.com/10/fef2bf?text=+) #fef2bf |
 
 
 ## FAQ
